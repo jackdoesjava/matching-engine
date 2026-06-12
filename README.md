@@ -1,20 +1,20 @@
-# 🏛️ Matching Engine: A Low-Latency Order Book Simulator
+# Matching Engine: A Low-Latency Order Book Simulator
 
 This project simulates a simplified, high-performance exchange-style order book with real-time matching of buy and sell orders. It includes benchmarking, trade logging, and a modular matching engine.
 
 ---
 
-## 🚀 Features
+## Features
 
-- ⚡ **Limit order matching** using price-time priority
-- ⏱️ **Benchmarking**: Processes 100k+ orders in seconds
-- 📈 **Trade logging** to CSV
-- 🔬 **Simple heap-based** order book logic
-- 📦 **Clean modular Python architecture**
+-  **Limit order matching** using price-time priority
+-  **Benchmarking**: Processes 100k+ orders in seconds
+-  **Trade logging** to CSV
+-  **Simple heap-based** order book logic
+-  **Clean modular Python architecture**
 
 ---
 
-## 📁 File Overview
+##  File Overview
 
 | File           | Purpose                             |
 |----------------|-------------------------------------|
@@ -26,7 +26,7 @@ This project simulates a simplified, high-performance exchange-style order book 
 
 ---
 
-## 🧪 Benchmark Example
+##  Benchmark Example
 
 Run the following to benchmark the engine:
 
